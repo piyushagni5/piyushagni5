@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am an AI Lead at Valuence Technologies, spearheading a talented team of AI Engineers to develop cutting-edge, end-to-end AI applications for an advanced auto-assessing platform. With 5+ years of experience in designing and deploying AI solutions, I specialize in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP), Computer Vision, Deep Learning, and Machine Learning.<br><br>My technical expertise includes Python, C, C++, and a wide range of ML frameworks. I leverage AWS, Docker, Terraform, FastAPI, and advanced ensemble techniques to architect scalable, robust, and efficient AI systems.
 
 
