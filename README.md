@@ -1,5 +1,18 @@
 # About Me:
-I am an AI Lead at Valuence Technologies, spearheading a talented team of AI Engineers to develop cutting-edge, end-to-end AI applications for an advanced auto-assessing platform. With 5+ years of experience in designing and deploying AI solutions, I specialize in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP), Computer Vision, Deep Learning, and Machine Learning.<br><br>My technical expertise includes Python, C, C++, and a wide range of ML frameworks. I leverage AWS, Docker, Terraform, FastAPI, and advanced ensemble techniques to architect scalable, robust, and efficient AI systems.
+I am a Lead AI Engineer at Valuence Technologies, building production-grade AI systems and leading the development of end-to-end AI applications at scale.
+With 6 years of experience in AI and software engineering, I specialize in Generative AI, Agentic AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP), Computer Vision, and Machine Learning. My work spans multi-agent architectures, AI chatbots, predictive modeling, recommendation systems, and cloud-native AI platforms deployed in production.
+
+I have extensive experience designing and deploying scalable AI solutions using LangGraph, LangChain, FastAPI, AWS, Docker, Kubernetes, Terraform, and modern MLOps/LLMOps practices. My expertise includes building multi-agent workflows, enterprise RAG systems, LLM fine-tuning using PEFT and QLoRA, model evaluation frameworks, and distributed AI applications.
+
+### Core Expertise
+- Generative AI & Agentic AI
+- Multi-Agent Systems (LangGraph, MCP)
+- Retrieval-Augmented Generation (RAG)
+- LLM Fine-Tuning (PEFT, QLoRA)
+- NLP & Information Retrieval
+- Computer Vision & Deep Learning
+- MLOps & LLMOps
+- Cloud-Native AI on AWS
 
 
 ## 🌐 Socials:
